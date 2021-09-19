@@ -1,7 +1,7 @@
-const host= "localhost";
-const user= "root";
-const password= "Umg$2019";
-const database= "escuela";
+const host= "nnsgluut5mye50or.cbetxkdyhwsb.us-east-1.rds.amazonaws.com";
+const user= "mhcfibns9mxijvq4";
+const password= "jn2xngje04p05nl2";
+const database= "snn6c77yh0eo7uvf";
 
 exports.host=host;
 exports.user=user;
